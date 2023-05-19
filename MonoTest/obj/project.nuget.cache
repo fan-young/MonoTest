@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qugY9sB1il7+wCQiq9qxp4DD24ytThLY5xk3BhqmQGevFsCS0G5isVctQjEvMQ1Cos/UWEqKyQ9KkgeGwWwzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fyang12\\source\\repos\\MonoTest\\MonoTest\\MonoTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fyang12\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\fyang12\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
