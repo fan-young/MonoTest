@@ -23,3 +23,4 @@ C:\Users\fyang12\source\repos\MonoTest\MonoTest\obj\Debug\net6.0\refint\MonoTest
 C:\Users\fyang12\source\repos\MonoTest\MonoTest\obj\Debug\net6.0\MonoTest.pdb
 C:\Users\fyang12\source\repos\MonoTest\MonoTest\obj\Debug\net6.0\MonoTest.genruntimeconfig.cache
 C:\Users\fyang12\source\repos\MonoTest\MonoTest\obj\Debug\net6.0\ref\MonoTest.dll
+C:\Users\fyang12\source\repos\MonoTest\MonoTest\bin\Debug\net6.0\Content\ball.xnb
